@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/home-bg.png</file>
+        <file>img/wallpaper1024x600.jpg</file>
+        <file>img/home-top-bg.png</file>
+        <file>img/home-foot-bg.png</file>
+        <file>img/tran.png</file>
+        <file>img/ic_allapps.png</file>
+        <file>img/ic_allapps_pressed.png</file>
+        <file>img/home-foot-icon7-0.png</file>
+        <file>img/home-foot-icon7-1.png</file>
+        <file>img/ic_launcher_settings.png</file>
+        <file>img/uhf0.png</file>
+        <file>img/uhf1.png</file>
+        <file>img/camera0.png</file>
+        <file>img/camera1.png</file>
+        <file>img/music0.png</file>
+        <file>img/music1.png</file>
+        <file>img/video0.png</file>
+        <file>img/video1.png</file>
+        <file>img/record0.png</file>
+        <file>img/record1.png</file>
+        <file>img/fr2520.png</file>
+        <file>img/fr2521.png</file>
+        <file>img/GPS0.png</file>
+        <file>img/GPS1.png</file>
+        <file>img/filemanager0.png</file>
+        <file>img/filemanager1.png</file>
+        <file>img/ic_launcher_settings0.png</file>
+        <file>img/ic_launcher_settings1.png</file>
+    </qresource>
+</RCC>
